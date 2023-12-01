@@ -1,2 +1,2 @@
 # n-queen-backtracking
-Solving n-queen problem using backtracking
+Solved n-queen problem using backtracking
