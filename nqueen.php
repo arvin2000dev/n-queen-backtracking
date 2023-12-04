@@ -20,7 +20,7 @@ function solveNQueen(&$board, $n, $col): void {
 
 function isPromising($board, $n, $row, $col): bool {
 	
-	// - 
+	// |
 	for($i = 0; $i < $col; $i++) 
 		if($board[$row][$i])
 			return false;
